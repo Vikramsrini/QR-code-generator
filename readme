@@ -1,0 +1,7 @@
+1.Open terminal and install two packages
+2.npm i inquirer
+3.npm i qr-image
+4.Run the index.js in terminal
+5.node index.js
+6.type the url
+7.The qr image is created as qr_img.png
